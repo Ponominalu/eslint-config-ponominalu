@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-ponominalu",
+  "version": "2.0.4",
+  "description": "JavaScript style guide by Ponominalu.ru",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "es2015",
+    "eslint",
+    "lint",
+    "style guide"
+  ],
+  "author": "Ponominalu.ru",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-vue": "^9.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ponominalu/eslint-config-ponominalu.git"
+  }
+}
